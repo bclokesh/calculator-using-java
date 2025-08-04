@@ -25,4 +25,6 @@ Here is what the console calculator looks like:
 
 ![Screenshot](screenshot.png)
 
+![Screenshot](![Screenshot](Screenshot%202025-08-04%20213903.png)
+)
 
