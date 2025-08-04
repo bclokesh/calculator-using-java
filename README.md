@@ -21,10 +21,11 @@ A simple and advanced Java-based calculator application that supports basic arit
 ## 📸 Screenshot
 
 Here is what the console calculator looks like:
+![Screenshot](screenshot.png)
 
 
-![Screenshot](![Screenshot](screenshot.png)
-)
+
+
 
 
 
