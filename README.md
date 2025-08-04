@@ -22,6 +22,7 @@ A simple and advanced Java-based calculator application that supports basic arit
 
 Here is what the console calculator looks like:
 
-![Calculator Screenshot](<img width="1494" height="797" alt="Screenshot 2025-08-04 203510" src="https://github.com/user-attachments/assets/8b459701-4d8c-478e-93bc-d47d8cf9ee2b" />
-)
+
+![Screenshot](screenshot.png)
+
 
